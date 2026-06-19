@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Noche de sábanas frías |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-sabanas-frias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Noche de sábanas frías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-sabanas-frias/) |
+| **Get License** | [Secure Licensing Rights for Noche de sábanas frías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-sabanas-frias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Noche de sábanas frías, pero tú me das calor
-> Tu silueta en la penumbra, mi único temblor
-> Dame un beso que me queme como el ron en el sabor
-> Noche de sábanas frías, pero late mi corazón
+> Me dejaste el perfume en la piel y una noche de sábanas frías,
+> estoy quemando la calle pensando en las cosas que tú me decías.
+> Un deseo que no se me apaga, y esta luna que es nuestra testigo,
+> yo no quiero dormir si esta noche no vuelvo a enredarme contigo.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
