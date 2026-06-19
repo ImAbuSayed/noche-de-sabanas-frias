@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de sábanas frías
+
+This log tracks the cryptographic history and versioning for the song **Noche de sábanas frías** (noche-de-sabanas-frias).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T21:55:35.547302 | `v1` | `710a25bb676d104112b6a2fc1c6db3ad18b6239271684e9496820015806f158e` | `4132312bac6c7af15e54042475bb87079a4e4aa103db7060470a53b1e97466ed` | `2026-06-19_noche-de-sabanas-frias-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

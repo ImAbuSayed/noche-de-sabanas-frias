@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-sabanas-frias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Noche de sábanas frías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-sabanas-frias/) |
+| **Get License** | [Secure Licensing Rights for Noche de sábanas frías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-sabanas-frias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `710a25bb676d104112b6a2fc1c6db3ad18b6239271684e9496820015806f158e` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
