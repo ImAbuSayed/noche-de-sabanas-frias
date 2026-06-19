@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-sabanas-frias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Noche de sábanas frías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-sabanas-frias/) |
+| **Get License** | [Official Music Licensing for Noche de sábanas frías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-sabanas-frias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Noche de sábanas frías, pero tú me das calor
+> Tu silueta en la penumbra, mi único temblor
+> Dame un beso que me queme como el ron en el sabor
+> Noche de sábanas frías, pero late mi corazón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
