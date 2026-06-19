@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Noche de
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-19T21:55:35.547302 | `v1` | `710a25bb676d104112b6a2fc1c6db3ad18b6239271684e9496820015806f158e` | `4132312bac6c7af15e54042475bb87079a4e4aa103db7060470a53b1e97466ed` | `2026-06-19_noche-de-sabanas-frias-v1.txt` |
+| 2026-06-19T22:00:24.836460 | `v2` | `c54400f948f0c86452c3ff56337ed6e29a9cc1214bf59618a0527f2f1d843a15` | `73af835b110749fc2616446e9af6323a1a837681f7102bd5cfe42b69cf703622` | `2026-06-19_noche-de-sabanas-frias-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
